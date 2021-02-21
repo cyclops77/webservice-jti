@@ -1,0 +1,15 @@
+{
+	"statusCode" : 200,
+	"notifikasi" : [
+		{
+			"tipe_notif" : "transaksi",
+			"value" : "Anda mendapatkan pengembalian dana sebesar 1 Rupiah",
+			"active_at" : "8:Feb:2021 09:00:00",
+		},
+		{
+			"tipe_notif" : "transaksi",
+			"value" : "Anda mendapatkan pengembalian dana sebesar 120 Rupiah",
+			"active_at" : "8:Feb:2021 10:00:00",
+		},
+	],
+}

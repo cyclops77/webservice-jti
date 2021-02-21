@@ -1,0 +1,35 @@
+{
+    "penghasilanValue" : 450000,
+    "penghasilanID" : 1,
+    
+    "frekuensiMakanValue" : 3,
+    "frekuensiMakanID" : 2,
+
+    "aksesPengobatanValue" : 1,
+    "aksesPengobatanID" : 3,
+
+	"frekuensiMembeliPakaianID" : 4,
+	"frekuensiMembeliPakaianValue" : 1,
+
+	"kualitasDindingID" : 5,
+	"kualitasDindingValue" : 2,
+
+	"kualitasLantaiID" : 6,
+	"kualitasLantaiValue" : 4,
+
+	"levelPendidikanAnakID" : 7,
+	"levelPendidikanAnakValue" : 2,
+
+	"kualitasAtapID" : 8,
+	"kualitasAtapValue" : 2,
+
+	"kualitasPeneranganID" : 9,
+	"kualitasPeneranganValue" : 2,
+
+	"luasLantaiID" : 10,
+	"luasLantaiValue" : 12,
+
+	"kualitasAirMinumID" : 11,
+	"kualitasAirMinumValue" : 2
+
+}

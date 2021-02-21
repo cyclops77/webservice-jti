@@ -1,0 +1,96 @@
+[
+    {
+        "id": 1,
+        "value": "Penghasilan",
+        "type": "Numerik",
+        "inputan": 450000,
+        "hasilMin": 1,
+        "pembilang": 450000,
+        "variabel_min": [
+            {
+                "id": 1,
+                "value": "500000",
+                "index": 1,
+                "isMin": 1,
+                "isMax": 0
+            }
+        ],
+        "variabel_max": [
+            {
+                "id": 2,
+                "value": "1000000",
+                "index": 2,
+                "isMin": 0,
+                "isMax": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "value": "Frekuensi Makan",
+        "type": "Numerik",
+        "inputan": 3,
+        "hasilMin": 0,
+        "pembilang": 3,
+        "variabel_min": [
+            {
+                "id": 3,
+                "value": "1",
+                "index": 1,
+                "isMin": 1,
+                "isMax": 0
+            }
+        ],
+        "variabel_max": [
+            {
+                "id": 5,
+                "value": "3",
+                "index": 3,
+                "isMin": 0,
+                "isMax": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "value": "Akses Pengobatan",
+        "type": "Linguistik",
+        "inputan": 1,
+        "hasilMin": 1,
+        "pembilang": "Tidak Mampu",
+        "variabel_min": [
+            {
+                "id": 6,
+                "value": "Tidak Mampu",
+                "index": 1,
+                "isMin": 1,
+                "isMax": 0
+            }
+        ],
+        "variabel_max": [
+            {
+                "id": 7,
+                "value": "Mampu",
+                "index": 2,
+                "isMin": 0,
+                "isMax": 1
+            }
+        ],
+        "variabel": [
+            {
+                "id": 6,
+                "value": "Tidak Mampu",
+                "index": 1,
+                "isMin": 1,
+                "isMax": 0
+            },
+            {
+                "id": 7,
+                "value": "Mampu",
+                "index": 2,
+                "isMin": 0,
+                "isMax": 1
+            }
+        ]
+    }
+]

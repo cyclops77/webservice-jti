@@ -1,0 +1,234 @@
+{
+    "listString": [
+        1,
+        0,
+        1,
+        1,
+        0.5,
+        0.67,
+        1,
+        1,
+        0,
+        0,
+        1,
+        1
+    ],
+    "result": [
+        [
+            {
+                "kriteria": "Penghasilan",
+                "tipe": "Numerik",
+                "state": {
+                    "maxstate": "Banyak",
+                    "minstate": "Sedikit"
+                },
+                "input": {
+                    "value": 450000,
+                    "pembilang": 450000
+                },
+                "output": {
+                    "hasilMin": 1,
+                    "hasilMax": 0
+                }
+            }
+        ],
+        [
+            {
+                "kriteria": "Frekuensi Makan",
+                "tipe": "Numerik",
+                "state": {
+                    "maxstate": "Tinggi",
+                    "minstate": "Rendah"
+                },
+                "input": {
+                    "value": 3,
+                    "pembilang": 3
+                },
+                "output": {
+                    "hasilMin": 0,
+                    "hasilMax": 1
+                }
+            }
+        ],
+        [
+            {
+                "kriteria": "Akses Pengobatan",
+                "tipe": "Linguistik",
+                "state": {
+                    "maxstate": "Tinggi",
+                    "minstate": "Rendah"
+                },
+                "input": {
+                    "value": 1,
+                    "pembilang": "Tidak Mampu"
+                },
+                "output": {
+                    "hasilMin": 1,
+                    "hasilMax": 0
+                }
+            }
+        ],
+        [
+            {
+                "kriteria": "Frekuensi Membeli Pakaian",
+                "tipe": "Numerik",
+                "state": {
+                    "maxstate": "Tinggi",
+                    "minstate": "Rendah"
+                },
+                "input": {
+                    "value": 1,
+                    "pembilang": 1
+                },
+                "output": {
+                    "hasilMin": 1,
+                    "hasilMax": 0
+                }
+            }
+        ],
+        [
+            {
+                "kriteria": "Kualitas Dinding",
+                "tipe": "Linguistik",
+                "state": {
+                    "maxstate": "Tinggi",
+                    "minstate": "Rendah"
+                },
+                "input": {
+                    "value": 2,
+                    "pembilang": "Kayu"
+                },
+                "output": {
+                    "hasilMin": 0.5,
+                    "hasilMax": 0
+                }
+            }
+        ],
+        [
+            {
+                "kriteria": "Kualitas Lantai",
+                "tipe": "Linguistik",
+                "state": {
+                    "maxstate": "Tinggi",
+                    "minstate": "Rendah"
+                },
+                "input": {
+                    "value": 4,
+                    "pembilang": "Semen"
+                },
+                "output": {
+                    "hasilMin": 0.67,
+                    "hasilMax": 0
+                }
+            }
+        ],
+        [
+            {
+                "kriteria": "Level Pendidikan Anak",
+                "tipe": "Linguistik",
+                "state": {
+                    "maxstate": "Tinggi",
+                    "minstate": "Rendah"
+                },
+                "input": {
+                    "value": 2,
+                    "pembilang": "SD"
+                },
+                "output": {
+                    "hasilMin": 1,
+                    "hasilMax": 0
+                }
+            }
+        ],
+        [
+            {
+                "kriteria": "Kualitas Atap",
+                "tipe": "Linguistik",
+                "state": {
+                    "maxstate": "Tinggi",
+                    "minstate": "Rendah"
+                },
+                "input": {
+                    "value": 2,
+                    "pembilang": "Seng"
+                },
+                "output": {
+                    "hasilMin": 1,
+                    "hasilMax": 0
+                }
+            }
+        ],
+        [
+            {
+                "kriteria": "Kualitas Penerangan",
+                "tipe": "Linguistik",
+                "state": {
+                    "maxstate": "Tinggi",
+                    "minstate": "Rendah"
+                },
+                "input": {
+                    "value": 2,
+                    "pembilang": "Listrik"
+                },
+                "output": {
+                    "hasilMin": 0,
+                    "hasilMax": 1
+                }
+            }
+        ],
+        [
+            {
+                "kriteria": "Luas Lantai",
+                "tipe": "Numerik",
+                "state": {
+                    "maxstate": "Tinggi",
+                    "minstate": "Rendah"
+                },
+                "input": {
+                    "value": 12,
+                    "pembilang": 12
+                },
+                "output": {
+                    "hasilMin": 0,
+                    "hasilMax": 1
+                }
+            }
+        ],
+        [
+            {
+                "kriteria": "Kualitas Air Minum",
+                "tipe": "Linguistik",
+                "state": {
+                    "maxstate": "Tinggi",
+                    "minstate": "Rendah"
+                },
+                "input": {
+                    "value": 2,
+                    "pembilang": "Sumur"
+                },
+                "output": {
+                    "hasilMin": 1,
+                    "hasilMax": 0
+                }
+            }
+        ],
+        [
+            {
+                "kriteria": "Kategori Kemiskinan",
+                "tipe": "Numerik",
+                "state": {
+                    "maxstate": "Miskin",
+                    "minstate": "Tidak Miskin"
+                },
+                "input": {
+                    "value": 2,
+                    "pembilang": 2
+                },
+                "output": {
+                    "hasilMin": 1,
+                    "hasilMax": 0
+                }
+            }
+        ]
+    ]
+}
